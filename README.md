@@ -1,4 +1,4 @@
-Code for replicate the experiments in Searching in the Dark: Evolving Biobot Swarm Compositions to Efficiently Explore Obstructed Environments
+Code for the experiments in Searching in the Dark: Evolving Biobot Swarm Compositions to Efficiently Explore Obstructed Environments
 
 To begin evolving, run begin_evolving.py 
 
